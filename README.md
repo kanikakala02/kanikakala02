@@ -1,71 +1,109 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kanika Kala</h1>
+<h3 align="center">Full Stack Software Engineer | Java & React | Microservices & Event-Driven Architecture</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kanika%20Kala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descColor=fff" />
+<p align="center">
+  🏢 Software Engineer @ <strong>Lowe's India (Fortune 50)</strong> &nbsp;|&nbsp;
+  📍 Bengaluru, India &nbsp;|&nbsp;
+  🎓 B.Tech CSE, Graphic Era University (CGPA: 8.96)
+</p>
 
-[
-[
-[
+---
 
-</div>
+- 🔭 I'm currently working on **high-throughput event-driven microservices** for supply chain replenishment at Lowe's
+- 🌱 I'm currently learning **System Design (HLD/LLD), DSA, and Advanced Java Patterns**
+- 🤖 I build with **Agentic AI** — integrated Claude Sonnet for autonomous incident resolution (93% faster RCA)
+- 💡 I love solving complex problems — solved **600+ algorithmic problems** across coding platforms
+- 🏆 Ranked **Top 767 out of 2 Million** in TCS CodeVita Season 10
+- 📫 How to reach me: **kanikakala8@gmail.com**
 
-***
+---
 
-### 👩‍💻 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/kanikakala" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanikakala" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/kanikakala" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanikakala" height="30" width="40" />
+  </a>
+</p>
 
-Software Engineer at **Lowe's India (Fortune 50)** building high-throughput, event-driven microservices for supply chain systems. I love solving complex problems at scale — from Kafka-powered pipelines processing **$215M+ in orders** to React UIs serving thousands of users with near-zero lag. Outside of work, I'm sharpening my DSA skills and exploring Agentic AI.
+---
 
-> 🏆 Top **767 / 2M** — TCS CodeVita Season 10 &nbsp;|&nbsp; 600+ problems solved &nbsp;|&nbsp; 3× Individual Excellence Award
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-***
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
 
-### 🛠️ Tech Stack
+</p>
 
-**Languages & Frameworks**
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanikakala&show_icons=true&theme=tokyonight" alt="kanikakala" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikakala&layout=compact&theme=tokyonight" alt="kanikakala" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-**Databases**
-
-
-
-
-
-
-
-**DevOps & Tools**
-
-
-
-
-
-
-
-
-
-
-**AI & LLMs**
-
-
-
-
-
-***
-
-<div align="center">
-
-
-&nbsp;
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanikakala&theme=tokyonight" alt="kanikakala" />
+</p>
