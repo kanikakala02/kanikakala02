@@ -16,11 +16,10 @@
 - 📫 How to reach me: **kanikakala8@gmail.com**
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/kanikakala](https://www.linkedin.com/in/kanika-kala-5915901b0/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/kanikakala](https://leetcode.com/u/KANIKA_KALA/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-kala-5915901b0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KANIKA_KALA/)
 ---
 
 <h3 align="left">Languages and Tools:</h3>
