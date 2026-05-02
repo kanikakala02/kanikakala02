@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Software Engineer | Java & React | Microservices & Event-Driven Architecture</h3>
 
 <p align="center">
-  🏢 Software Engineer @ <strong>Lowe's India (Fortune 50)</strong> &nbsp;|&nbsp;
+  🏢 Software Engineer @ <strong>Lowe's India </strong> &nbsp;|&nbsp;
   📍 Bengaluru, India &nbsp;|&nbsp;
-  🎓 B.Tech CSE, Graphic Era University (CGPA: 8.96)
+  🎓 B.Tech CSE
 </p>
 
 ---
@@ -13,21 +13,14 @@
 - 🌱 I'm currently learning **System Design (HLD/LLD), DSA, and Advanced Java Patterns**
 - 🤖 I build with **Agentic AI** — integrated Claude Sonnet for autonomous incident resolution (93% faster RCA)
 - 💡 I love solving complex problems
-- 🏆 Ranked **Top 767 out of 2 Million** in TCS CodeVita Season 10
 - 📫 How to reach me: **kanikakala8@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kanikakala" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanikakala" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/kanikakala" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanikakala" height="30" width="40" />
-  </a>
-</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanikakala)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kanikakala)
 ---
 
 <h3 align="left">Languages and Tools:</h3>
